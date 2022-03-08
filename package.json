@@ -1,0 +1,14 @@
+{
+  "name": "functional_javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hryjosn/functional_javascript.git",
+  "author": "Henry Johnson <jo74705@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "functional-javascript-workshop"
+  },
+  "devDependencies": {
+    "functional-javascript-workshop": "^1.0.6"
+  }
+}
